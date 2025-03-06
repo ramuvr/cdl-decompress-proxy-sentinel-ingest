@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5acfab20-69b1-47df-b665-ee1ab5628efd/resourceGroups/rg-cyber-aue-siem/providers/Microsoft.Web/sites/wa-cyber-aue-prismaaccess",
+    "appService.deploySubpath": "."
+}
